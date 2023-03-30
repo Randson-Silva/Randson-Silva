@@ -8,8 +8,34 @@
 </div>
 
 
-[![Randson's GitHub stats](https://github-readme-stats.vercel.app/api?username=Randson-Silva&show_icons=true&theme=tokyonight)](https://github.com/Randson-Silva)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Randson-Silva&layout=compact&theme=tokyonight)](https://github.com/Randson-Silva)
+<!--[![Randson's GitHub stats](https://github-readme-stats.vercel.app/api?username=Randson-Silva&show_icons=true&theme=tokyonight)](https://github.com/Randson-Silva)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Randson-Silva&layout=compact&theme=tokyonight&height)](https://github.com/Randson-Silva)
+  -->
+<picture>
+<source 
+  height="180em"
+  srcset="https://github-readme-stats.vercel.app/api?username=Randson-Silva&show_icons=true&theme=tokyonight"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=Randson-Silva&show_icons=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=Randson-Silva&show_icons=true" />
+</picture>
+
+<picture>
+<source 
+  height="180em"
+  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Randson-Silva&layout=compact&theme=tokyonight"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Randson-Silva&layout=compact&theme=tokyonight"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Randson-Silva&layout=compact&theme=tokyonight" />
+</picture>
   
 ## Connect with me
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/randson-alves/)
@@ -25,20 +51,3 @@
   <img align"center" alt="AWS - Amazon Web Services" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
   
 </div>
-
-
-
-<!--
-**Randson-Silva/Randson-Silva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
