@@ -11,7 +11,9 @@
 <!--[![Randson's GitHub stats](https://github-readme-stats.vercel.app/api?username=Randson-Silva&show_icons=true&theme=tokyonight)](https://github.com/Randson-Silva)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Randson-Silva&layout=compact&theme=tokyonight&height)](https://github.com/Randson-Silva)
   -->
-<picture>
+  
+ 
+<!-- aqui mostra o tanto de commits e as linguagens usadas :( <picture>
 <source 
   height="180em"
   srcset="https://github-readme-stats.vercel.app/api?username=Randson-Silva&show_icons=true&theme=tokyonight"
@@ -36,6 +38,7 @@
 />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Randson-Silva&layout=compact&theme=tokyonight" />
 </picture>
+-->
   
 ## Connect with me
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/randson-alves/)
