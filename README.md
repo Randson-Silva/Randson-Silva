@@ -1,18 +1,11 @@
 ## Hey dev! I'm Randson 👋
 
 <div>
-  AWS Academy Graduate - AWS Academy Cloud Foundations<br>
-   https://www.credly.com/badges/4708dd2a-64c6-4070-9c36-5343e80657cd/public_url <img align="center" alt="Randson's AWS Certificate" height="60" width="60" src="https://images.credly.com/size/680x680/images/73e4a58b-a8ef-41a3-a7db-9183dd269882/image.png" />
+  My AWS Academy Graduate - AWS Academy Cloud Foundations<br>
+   https://www.credly.com/badges/4708dd2a-64c6-4070-9c36-5343e80657cd/public_url
   <p align="center"></p>
-
 </div>
 
-
-<!--[![Randson's GitHub stats](https://github-readme-stats.vercel.app/api?username=Randson-Silva&show_icons=true&theme=tokyonight)](https://github.com/Randson-Silva)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Randson-Silva&layout=compact&theme=tokyonight&height)](https://github.com/Randson-Silva)
-  -->
-  
- 
 <picture>
 <source 
   height="180em"
@@ -46,11 +39,12 @@
 
 ## Languages and tools
 <div>
-  <img align"center" alt="Java" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  <img align"center" alt="TypesCript" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-  <img align"center" alt="Python" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img align"center" alt="MySQL" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-  <img align"center" alt="Spring" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" />
-  <img align"center" alt="AWS - Amazon Web Services" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
-  
+  <img align"center" alt="Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img align"center" alt="Spring" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" />
+  <img align"center" alt="TypesCript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
+  <img align"center" alt="Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img align"center" alt="AWS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
+  <img align"center" alt="PostgreSQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+  <img align"center" alt="Firebase" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" />
+  <img align"center" alt="MySQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 </div>
